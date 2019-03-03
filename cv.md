@@ -1,9 +1,10 @@
 # Sergey Rakutin
+![My photograph](https://avatars2.githubusercontent.com/u/5032718?s=460&v=4)
 ## My contacts:
 * phone_number: +375447333869
 * e-mail: apache_red@mail.ru
 * skype: apache_red
-## Summary:	
+## Summary:
 I dream of becoming a full stack developer, so I study the technologies necessary for this. I am focused on results and always achieve my goal.  
 ## Skill:
 * HTML5, CSS,
